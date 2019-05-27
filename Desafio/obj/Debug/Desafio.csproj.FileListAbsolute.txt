@@ -1,0 +1,14 @@
+F:\Desafio\Desafio\bin\Debug\Desafio.exe.config
+F:\Desafio\Desafio\bin\Debug\Desafio.exe
+F:\Desafio\Desafio\bin\Debug\Desafio.pdb
+F:\Desafio\Desafio\obj\Debug\Desafio.csprojAssemblyReference.cache
+F:\Desafio\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+F:\Desafio\Desafio\obj\Debug\Desafio.exe
+F:\Desafio\Desafio\obj\Debug\Desafio.pdb
+C:\Backup Marcos Pereira\Desafio\Desafio\bin\Debug\Desafio.exe.config
+C:\Backup Marcos Pereira\Desafio\Desafio\bin\Debug\Desafio.exe
+C:\Backup Marcos Pereira\Desafio\Desafio\bin\Debug\Desafio.pdb
+C:\Backup Marcos Pereira\Desafio\Desafio\obj\Debug\Desafio.csprojAssemblyReference.cache
+C:\Backup Marcos Pereira\Desafio\Desafio\obj\Debug\Desafio.csproj.CoreCompileInputs.cache
+C:\Backup Marcos Pereira\Desafio\Desafio\obj\Debug\Desafio.exe
+C:\Backup Marcos Pereira\Desafio\Desafio\obj\Debug\Desafio.pdb
